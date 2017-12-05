@@ -1,0 +1,17 @@
+.weather-container {
+  text-align: center;
+}
+
+.weather-table {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.weather-table td, .weather-table th {
+  vertical-align: middle !important;
+  text-align: center !important;
+}
+
+.weather-table svg {
+  height: 200px;
+}

@@ -1,0 +1,27 @@
+#map {
+  height: 500px;
+}
+
+.restaurants-container {
+  text-align: center;
+}
+
+.restaurants-list-item {
+  width: 700px;
+  height: 260px;
+  margin: 10px auto;
+  border: 3px solid black;
+  border-radius: 10px;
+  background-color: white;
+}
+
+.restaurants-list-item img {
+  padding: 5px;
+  float: left;
+}
+
+.restaurants-list-item strong, span { 
+  display: block; 
+  padding-top: 20px; 
+}
+
