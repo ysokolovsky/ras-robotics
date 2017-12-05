@@ -1,3 +1,3 @@
-yarn install
-yarn run build:prod
+yarn install<br />
+yarn run build:prod<br />
 yarn start
